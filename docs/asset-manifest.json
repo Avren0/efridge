@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/efridge/static/css/main.95832410.chunk.css",
+    "main.js": "/efridge/static/js/main.44ab2dd1.chunk.js",
+    "main.js.map": "/efridge/static/js/main.44ab2dd1.chunk.js.map",
+    "runtime~main.js": "/efridge/static/js/runtime~main.e4af0ce6.js",
+    "runtime~main.js.map": "/efridge/static/js/runtime~main.e4af0ce6.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/efridge/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.13694f8b.chunk.js": "/efridge/static/js/2.13694f8b.chunk.js",
+    "static/js/2.13694f8b.chunk.js.map": "/efridge/static/js/2.13694f8b.chunk.js.map",
+    "index.html": "/efridge/index.html",
+    "precache-manifest.6cb544dafef0527d0dae3ef58579dbeb.js": "/efridge/precache-manifest.6cb544dafef0527d0dae3ef58579dbeb.js",
+    "service-worker.js": "/efridge/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/efridge/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.95832410.chunk.css.map": "/efridge/static/css/main.95832410.chunk.css.map"
+  }
+}
